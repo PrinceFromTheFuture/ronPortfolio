@@ -38,9 +38,9 @@ export default function Home() {
               <FadeInOnScroll>
                 <section className=" mt-6">
                   <h2 className=" font-secondary text-black text-4xl">Hey. Im Ron,</h2>
-                  <h2 className="  text-black text-[110px]/24">a Graphic</h2>
+                  <h2 className="  text-black text-[100px]/24">a Graphic</h2>
                   <h2 className=" font-secondary italic text-black text-[85px]/18 ">& Game</h2>
-                  <h2 className="  text-black text-[110px]/24">Artist</h2>
+                  <h2 className="  text-black text-[100px]/24">Artist</h2>
                 </section>
               </FadeInOnScroll>
               <FadeInOnScroll className="font-secondary   text-3xl mt-4">
@@ -246,8 +246,8 @@ export default function Home() {
             Specializing in character design, environment art, and brand identity, I bring a unique blend of
             artistic vision and technical expertise to every project. From concept to completion, I work
             closely with clients and development teams to create visuals that not only look stunning but also
-            serve their intended purpose—whether that&apos;s enhancing gameplay, building brand recognition, or
-            engaging users. My experience spans mobile games, console titles, brand campaigns, and digital
+            serve their intended purpose—whether that&apos;s enhancing gameplay, building brand recognition,
+            or engaging users. My experience spans mobile games, console titles, brand campaigns, and digital
             products, always with a focus on quality, creativity, and user experience.
           </FadeInOnScroll>
         </div>
