@@ -1,8 +1,7 @@
 "use client";
-import React, { useEffect, useLayoutEffect, useRef, useState } from "react";
+import React, {  useLayoutEffect, useRef, useState } from "react";
 import { Menu as MenuIcon } from "lucide-react";
 import { motion } from "framer-motion";
-import FadeInOnScroll from "./FadeIn";
 
 function Menu() {
   const [isOpen, setIsOpen] = React.useState(false);
@@ -39,7 +38,7 @@ function Menu() {
             animate={{ opacity: 1, x: 0 }}
             transition={{ duration: 0.4, ease: "easeIn", delay: 0.3 }}
           >
-            <div className=" ">fd</div>
+            <div className=" "></div>
           </motion.div>
         )}
       </motion.div>

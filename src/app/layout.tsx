@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { Bebas_Neue, Instrument_Serif, Roboto_Condensed } from "next/font/google";
+import { Bebas_Neue, Instrument_Serif,  } from "next/font/google";
 import "./globals.css";
 
 
